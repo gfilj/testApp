@@ -1,0 +1,23 @@
+{
+  "index.html": {
+    "resources": [
+      "js/lib/qiao/qiao.h.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "js/lib/jquery-3.2.1.min.js",
+      "css/mui.min.css",
+      "js/app/index.js",
+      "list.html"
+    ],
+    "refer": [
+      "list.html"
+    ]
+  },
+  "list.html": {
+    "resources": [
+      "js/app/list.js",
+      "css/mui.min.css"
+    ],
+    "refer": []
+  }
+}
